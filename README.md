@@ -16,10 +16,19 @@ A equação de Schrödinger fornece o arcabouço teórico para descrever estados
 <div align='justify'>
   <p> Este repositório possui todos os códigos - em notebooks jupyter - necessários para realizar a modelagem da equação de Schrödinger unidimensional e independente do tempo. </p>
   <ul>
-    <li> :page_facing_up: poço.ipynb: Arquivo com o código para modelagem do Poço Finito; </li>
-    <li> :page_facing_up: poço_duplo.ipynb: Arquivo com o código para modelagem do Poço Duplo Finito; </li>
-    <li> :page_facing_up: kronig-penney.ipynb: Arquivo com o código para modelagem do Krönig-Penney contínuo; </li>
+    <li> :file_folder: Códigos: Contém jupyter notebooks com os códigos de modelagem; </li>
+    <ul>
+      <li> :page_facing_up: poço.ipynb: Arquivo com o código para modelagem do Poço Finito; </li>
+      <li> :page_facing_up: poço_duplo.ipynb: Arquivo com o código para modelagem do Poço Duplo Finito; </li>
+      <li> :page_facing_up: kronig-penney.ipynb: Arquivo com o código para modelagem do Krönig-Penney contínuo. </li>
+    </ul>
     <li> :file_folder: Resultados: Contém as imagens obtidas como resultados das modelagens; </li>
+    <ul>
+      <li> :page_facing_up: poço.ipynb: Arquivo com o código para modelagem do Poço Finito; </li>
+      <li> :page_facing_up: poço_duplo.ipynb: Arquivo com o código para modelagem do Poço Duplo Finito; </li>
+      <li> :page_facing_up: kronig-penney.ipynb: Arquivo com o código para modelagem do Krönig-Penney contínuo; </li>
+      <li> :arrow_forward: Final Edo.mp4: Vídeo de apresentação do trabalho. </li>
+    </ul>
     <li> :framed_picture: Cabeçalho.png: Imagem usada para o cabeçalho do README. </li>
   </ul>
 </div>
