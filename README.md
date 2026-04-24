@@ -24,10 +24,13 @@ A equação de Schrödinger fornece o arcabouço teórico para descrever estados
     </ul>
     <li> :file_folder: Resultados: Contém as imagens obtidas como resultados das modelagens; </li>
     <ul>
-      <li> :page_facing_up: poço.ipynb: Arquivo com o código para modelagem do Poço Finito; </li>
-      <li> :page_facing_up: poço_duplo.ipynb: Arquivo com o código para modelagem do Poço Duplo Finito; </li>
-      <li> :page_facing_up: kronig-penney.ipynb: Arquivo com o código para modelagem do Krönig-Penney contínuo; </li>
-      <li> :arrow_forward: Final Edo.mp4: Vídeo de apresentação do trabalho. </li>
+      <li> :arrow_forward: Final Edo.mp4: Vídeo de apresentação do trabalho; </li>
+      <li> :framed_picture: bandas_kronig_penney.png: Gráfico com bandas de energia do Krönig-Penney contínuo; </li>
+      <li> :framed_picture: estados_poco.png: Gráfico com estados do Poço Finito; </li>
+      <li> :framed_picture: estados_poco_duplo.png: Gráfico com estados do Poço Duplo Finito; </li>
+      <li> :framed_picture: potencial_duplo_poco.png: Gráfico da energia potencial do Poço Duplo Finito; </li>
+      <li> :framed_picture: potencial_kronig_penney.png: Gráfico da energia potencial do Krönig-Penney contínuo; </li>
+      <li> :framed_picture: potencial_poco.png: Gráfico da energia potencial do Poço Finito. </li>
     </ul>
     <li> :framed_picture: Cabeçalho.png: Imagem usada para o cabeçalho do README. </li>
   </ul>
