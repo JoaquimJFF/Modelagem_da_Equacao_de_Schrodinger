@@ -88,7 +88,7 @@ O presente trabalho tem como objetivo estudar três diferentes <em>toy models</e
 <p align="center">
   <em>(a) Poço finito &nbsp;&nbsp;&nbsp; 
       (b) Poço duplo &nbsp;&nbsp;&nbsp; 
-      (c) Kronig-Penney contínuo</em>
+      (c) Krönig-Penney contínuo</em>
 </p>
 
 <p align="center">
